@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 23
 bruno henrique de jesus brito
+=======
+bruno henrique de jesus brito brito
+>>>>>>> primeira_branch
